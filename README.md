@@ -10,7 +10,7 @@
 
 # Skills
 
-1. Singing
-2. Dancing
-3. Yelling
+1. writing
+2. bookeeping
+3. consulting
 
