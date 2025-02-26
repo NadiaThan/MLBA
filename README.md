@@ -1,24 +1,16 @@
-# Machine Learning for Business Analytics
-
-# Purpose
-
-Looking for junior data analyst position in healthcare indstury
+# Nadia
 
 # Education
 
-- dkdkdkdkdkdkdkdkdk
-- asdf
-- asdf
-- asdf
+- Tunghai University, GMBA
+- College
 
 # Experience
-
--djdjd
--djdjdj
+- 2 years
 
 # Skills
 
-1. sksks
-2. dkdkd
-3. dkdkd
+1. Singing
+2. Dancing
+3. Yelling
 
